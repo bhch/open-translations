@@ -1,0 +1,310 @@
+_meta:
+  name: German
+  code: de
+  direction: ltr
+
+Create:
+  description: Button used for creating/adding new object or data.
+  value:
+
+Add:
+  description: Button used for creating/adding new object or data.
+  value:
+
+Add new:
+  description: Button used for creating/adding new object or data.
+  value:
+
+Save:
+  description: Button used for saving data.
+  value:
+
+Update:
+  description: Button used for updating an object, data, app, etc.
+  value:
+
+Edit:
+  description: Button used for editing or modifying an object or data.
+  value:
+
+Change:
+  description: Label for buttons used for changing/modifying some data.
+  value:
+
+Modify:
+  description: Button for modifying/changing an object or data.
+  value:
+
+Delete:
+  description: Button for deleting an object.
+  value:
+
+Remove:
+  description: Button for removing an object.
+  value:
+
+"Yes":
+  description: Button for confirming an action.
+  value:
+
+Yes, I'm sure:
+  description: Button for confirming a possibly destructive or serious action.
+  value:
+
+Yes, delete:
+  description: Button for confirming a deleting action.
+  value:
+
+Yes, remove:
+  description: Button for confirming a removing action.
+  value:
+
+"No":
+  description: Button for declining an action.
+  value:
+
+Cancel:
+  description: Button used for cancelling or discarding an action.
+  value:
+
+Clear:
+  description: Button used for clearing or erasing some data such as an input value.
+  value:
+
+Discard:
+  description: Button used for discarding or cancelling an action.
+  value:
+
+Close:
+  description: Button used for closing a window, program, menu, popup or a modal.
+  value:
+
+Exit:
+  description: Button exiting from a window or an application.
+  value:
+
+Quit:
+  description: Button for quitting/closing an application or a window.
+  value:
+
+Install:
+  description: Button or label for installing software, app, etc.
+  value:
+
+Upgrade:
+  description: Button or label for upgrading software, app, etc.
+  value:
+
+Accept:
+  description: Button or Label used for asking user to accept something, such as terms
+    and conditions.
+  value:
+
+I accept:
+  description: Button or Label used for asking user to accept something, such as terms
+    and conditions.
+  value:
+
+Getting started:
+  description: Button or Link used for taking user to a "Getting started" page.
+  value:
+
+Learn more:
+  description: Button or Link used for taking user to a "Learn more" page or showing
+    them more information about something.
+  value:
+
+Pricing:
+  description: Button or Link for plans and pricing.
+  value:
+
+Plans:
+  description: Button or Link for plans and pricing.
+  value:
+
+About:
+  description: Button or Label for "About" page or information.
+  value:
+
+About us:
+  description: Button or Label for "About us" page or information.
+  value:
+
+Contact:
+  description: Button or Label for "Contact" page of information.
+  value:
+
+Contact us:
+  description: Button or Label for "Contact us" page or information.
+  value:
+
+Get the app:
+  description: Label for asking user to download an app.
+  value: App installieren
+  variant:
+    Install app:
+
+Login:
+  description: Button for submitting login form, or label for link to login page.
+  value: Anmelden
+
+Sign in:
+  description: Button for submitting sign in form, or label for link to sign in page.
+  value: Anmelden
+
+Logout:
+  description: Button for logging out.
+  value:
+
+Sign out:
+  description: Button for signing out.
+  value:
+
+Sign up:
+  description: Button for submitting sign up form, or label for link to sign up page.
+  value: Registrieren
+
+Don't have an account? Sign up:
+  description: Label for asking user to sign up.
+  value: Du hast kein Konto? Registrieren
+
+Username:
+  description: Label for username form field.
+  value:
+
+Password:
+  description: Label for password form field.
+  value:
+
+Forgot password?:
+  description: Label for "forgot password?" link.
+  value: Passwort vergessen?
+
+Reset password:
+  description: Label for "Reset password" link or text.
+  value:
+
+Email:
+  description: Label for email address form field.
+  value:
+
+Verify email:
+  description: Button for verifying email address.
+  value:
+
+Name:
+  description: Label for name form field.
+  value:
+
+Full name:
+  description: Label for full name form field.
+  value:
+
+First name:
+  description: Label for first name form field.
+  value:
+
+Middle name:
+  description: Label for middle name form field.
+  value:
+
+Last name:
+  description: Label for last name form field.
+  value:
+
+Address:
+  description: Label for address form field.
+  value:
+
+Shipping address:
+  description: Label for shipping address form field.
+  value:
+
+Billing address:
+  description: Label for billing address form field.
+  value:
+
+Select your language:
+  description: Label for asking user to select their preferred language.
+  value:
+
+Please select your language:
+  description: Label for asking user to select their preferred language.
+  value:
+
+Error:
+  description: The word "error" to notify user about an error or a failed action.
+  value:
+
+Sorry:
+  description: The word "sorry" in case of an error, or unsuccessful action or event.
+  value:
+
+Something went wrong:
+  description: Error message when something goes wrong.
+  value:
+
+Please check your internet connection and try again:
+  description: Error message for bad internet connection.
+  value:
+
+Page not found:
+  description: Error message for HTTP 404 error.
+  value:
+
+The page you're looking for doesn't exist:
+  description: Error message for HTTP 404 error.
+  value:
+
+Retry:
+  description: Button for retrying a failed action.
+  value:
+
+Try again:
+  description: Button or message for asking user to try again a failed action.
+  value:
+
+Please try again:
+  description: Message for asking user to try again a failed action.
+  value:
+
+Invalid username or password:
+  description: Error message for failed login attempt due to wrong username or password.
+  value:
+
+Wrong username or password:
+  description: Error message for failed login attempt due to wrong username or password.
+  value:
+
+This username is already taken:
+  description: Error message for already taken username.
+  value:
+
+This username is not available:
+  description: Error message for unavailable username.
+  value:
+
+Success:
+  description: The word "success" to tell user of a successful event or action.
+  value:
+
+Changes saved successfully:
+  description: Success message after a successful form save.
+  value:
+
+Password changed successfully:
+  description: Success message after a user changes password.
+  value:
+
+Are you sure you want to permanently delete this file?:
+  description: Warning message before user tries to permanently delete a file.
+  value:
+
+Are you sure you want to permanently delete this?:
+  description: Warning message before user tries to permanently delete an object,
+    data, etc.
+  value:
+
+Are you sure you want to delete this?:
+  description: Warning message before user tries to delete an object, data, etc.
+  value:

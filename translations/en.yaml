@@ -1,0 +1,577 @@
+_meta:
+  name: English
+  code: en
+  direction: ltr
+
+Create:
+  description: Button used for creating/adding new object or data.
+  tags:
+    - button
+  similar:
+    - Add
+    - Add new
+
+Add:
+  description: Button used for creating/adding new object or data.
+  tags:
+    - button
+  similar:
+    - Create
+    - Add new
+
+Add new:
+  description: Button used for creating/adding new object or data.
+  tags:
+    - button
+  similar:
+    - Create
+    - Add
+
+Save:
+  description: Button used for saving data.
+  tags:
+    - button
+  similar:
+    - Update
+
+Update:
+  description: Button used for updating an object, data, app, etc.
+  tags:
+    - button
+  similar:
+    - Change
+    - Edit 
+    - Modify
+    - Upgrade
+
+Edit:
+  description: Button used for editing or modifying an object or data.
+  tags:
+    - button
+  similar:
+    - Change
+    - Modify
+    - Update
+
+Change:
+  description: Label for buttons used for changing/modifying some data.
+  tags:
+    - button
+  similar:
+    - Edit
+    - Modify
+    - Update
+
+Modify:
+  description: Button for modifying/changing an object or data.
+  tags:
+    - button
+  similar:
+    - Change
+    - Edit
+    - Update
+
+Delete:
+  description: Button for deleting an object.
+  tags:
+    - button
+  similar:
+    - Remove
+
+Remove:
+  description: Button for removing an object.
+  tags:
+    - button
+  similar:
+    - Delete
+
+"Yes":
+  description: Button for confirming an action.
+  tags:
+    - button
+  similar:
+    - Yes, I'm sure
+    - Yes, delete
+    - Yes, remove
+    - "No"
+
+Yes, I'm sure:
+  description: Button for confirming a possibly destructive or serious action.
+  tags:
+    - button
+  variants:
+    Yes, I am sure:
+  similar:
+    - "Yes"
+    - Yes, delete
+    - Yes, remove
+    - "No"
+
+Yes, delete:
+  description: Button for confirming a deleting action.
+  tags:
+    - button
+  similar:
+    - "Yes"
+    - Yes, I'm sure
+    - Yes, remove
+    - "No"
+
+Yes, remove:
+  description: Button for confirming a removing action.
+  tags:
+    - button
+  similar:
+    - "Yes"
+    - Yes, I'm sure
+    - Yes, delete
+    - "No"
+
+"No":
+  description: Button for declining an action.
+  tags:
+    - button
+  similar: 
+    - "Yes"
+
+Cancel:
+  description: Button used for cancelling or discarding an action.
+  tags:
+    - button
+  similar:
+    - Discard
+    - Clear
+
+Clear:
+  description: Button used for clearing or erasing some data such as an input value.
+  tags:
+    - button
+  similar: 
+    - Cancel
+
+Discard:
+  description: Button used for discarding or cancelling an action.
+  tags:
+    - button
+  similar:
+    - Cancel
+
+Close:
+  description: Button used for closing a window, program, menu, popup or a modal.
+  tags:
+    - button
+  similar:
+    - Exit
+    - Quit
+
+Exit:
+  description: Button exiting from a window or an application. 
+  tags:
+    - button
+  similar:
+    - Close
+    - Quit
+
+Quit:
+  description: Button for quitting/closing an application or a window.
+  tags:
+    - button
+  similar:
+    - Close
+    - Exit
+
+Install:
+  description: Button or label for installing software, app, etc.
+  tags:
+    - button
+    - label
+
+Upgrade:
+  description: Button or label for upgrading software, app, etc.
+  tags:
+    - button
+    - label
+  similar:
+    - Update
+
+Accept:
+  description: Button or Label used for asking user to accept something, such as 
+    terms and conditions.
+  tags:
+    - button
+    - label
+  similar:
+    - I accept
+
+I accept:
+  description: Button or Label used for asking user to accept something, such as 
+    terms and conditions.
+  tags:
+    - button
+    - label
+  similar:
+    - Accept
+
+Getting started:
+  description: Button or Link used for taking user to a "Getting started" page. 
+  tags:
+    - button
+  similar:
+    - Learn more
+
+Learn more:
+  description: Button or Link used for taking user to a "Learn more" page or 
+    showing them more information about something.
+  tags:
+    - button
+  similar: 
+    - Getting started
+
+Pricing:
+  description: Button or Link for plans and pricing. 
+  tags:
+    - button
+  similar:
+    - Plans
+
+Plans:
+  description: Button or Link for plans and pricing.
+  tags:
+    - button
+  similar:
+    - Pricing
+
+About:
+  description: Button or Label for "About" page or information.
+  tags:
+    - button
+    - label
+  similar:
+    - About us
+
+About us:
+  description: Button or Label for "About us" page or information.
+  tags:
+    - button
+    - label
+  similar:
+    - About
+
+Contact:
+  description: Button or Label for "Contact" page of information.
+  tags:
+    - button
+    - label
+  similar: 
+    - Contact us
+
+Contact us:
+  description: Button or Label for "Contact us" page or information.
+  tags:
+    - button
+    - label
+  similar:
+    - Contact
+
+Get the app:
+  description: Label for asking user to download an app.
+  tags:
+    - label
+  variant:
+    Install app: 
+
+Login:
+  description: Button for submitting login form, or label for link to login page.
+  variants:
+    Log in:
+  tags:
+    - button
+    - label
+  similar:
+    - Sign in
+
+Sign in:
+  description: Button for submitting sign in form, or label for link to sign in page.
+  tags:
+    - button
+    - label
+  similar:
+    - Login
+
+Logout:
+  description: Button for logging out.
+  variants: 
+    Log out:
+  tags:
+    - button
+  similar:
+    - Sign out
+
+Sign out:
+  description: Button for signing out.
+  tags:
+    - button
+  similar:
+    - Logout
+
+Sign up:
+  description: Button for submitting sign up form, or label for link to sign up page.
+  tags:
+    - button
+    - label
+  similar:
+    - Don't have an account? Sign up
+
+Don't have an account? Sign up:
+  description: Label for asking user to sign up.
+  tags:
+    - label
+  similar:
+    - Sign up
+
+Username:
+  description: Label for username form field.
+  tags:
+    - label
+
+Password:
+  description: Label for password form field.
+  tags:
+    - label
+  similar:
+    - Forgot password?
+    - Reset password
+
+Forgot password?:
+  description: Label for "forgot password?" link.
+  tags:
+    - label
+    - button
+  similar:
+    - Reset password
+
+Reset password:
+  description: Label for "Reset password" link or text.
+  tags:
+    - label
+    - button
+  similar:
+    - Forgot password?
+
+Email:
+  description: Label for email address form field.
+  variants:
+    E-mail:
+    E mail:
+  tags:
+    - label
+  similar:
+    - Verify email
+
+Verify email:
+  description: Button for verifying email address.
+  tags:
+    - button
+  similar:
+    - Email
+
+Name:
+  description: Label for name form field.
+  tags:
+    - label
+  similar:
+    - Full name
+    - First name
+    - Middle name
+    - Last name
+
+Full name:
+  description: Label for full name form field.
+  tags:
+    - label
+  similar:
+    - Name
+
+First name:
+  description: Label for first name form field.
+  tags:
+    - label
+  similar:
+    - Name
+    - Middle name
+    - Last name
+
+Middle name:
+  description: Label for middle name form field.
+  tags:
+    - label
+  similar:
+    - Name
+    - First name
+    - Last name
+
+Last name:
+  description: Label for last name form field.
+  tags:
+    - label
+  similar:
+    - Name
+    - First name
+    - Middle name
+
+Address:
+  description: Label for address form field.
+  tags:
+    - label
+  similar:
+    - Shipping address
+    - Billing address
+
+Shipping address:
+  description: Label for shipping address form field.
+  tags:
+    - label
+  similar:
+    - Address
+    - Billing address
+
+Billing address:
+  description: Label for billing address form field.
+  tags:
+    - label
+  similar:
+    - Address
+    - Shipping address
+
+Select your language:
+  description: Label for asking user to select their preferred language.
+  variants:
+    Choose your language:
+  tags:
+    - label
+  similar:
+    - Please select your language
+
+Please select your language:
+  description: Label for asking user to select their preferred language.
+  variants:
+    Please choose your language:
+  tags:
+    - label
+  similar:
+    - Select your language
+
+Error:
+  description: The word "error" to notify user about an error or a failed action.
+  tags:
+    - Error message
+
+Sorry:
+  description: The word "sorry" in case of an error, or unsuccessful action or event.
+  tags:
+    - Error message
+
+Something went wrong:
+  description: Error message when something goes wrong.
+  tags:
+    - Error message
+
+Please check your internet connection and try again:
+  description: Error message for bad internet connection.
+  tags:
+    - Error message
+
+Page not found:
+  description: Error message for HTTP 404 error.
+  tags:
+    - Error message
+  similar:
+    - The page you're looking for doesn't exist
+
+The page you're looking for doesn't exist:
+  description: Error message for HTTP 404 error.
+  tags:
+    - Error message
+  similar:
+    - Page not found
+
+Retry:
+  description: Button for retrying a failed action.
+  tags:
+    - button
+  similar:
+    - Try again
+
+Try again:
+  description: Button or message for asking user to try again a failed action.
+  tags:
+    - button
+    - Error message
+  similar: 
+    - Retry
+    - Please try again
+
+Please try again:
+  description: Message for asking user to try again a failed action.
+  tags:
+    - Error message
+  similar:
+    - Please try again
+
+Invalid username or password:
+  description: Error message for failed login attempt due to wrong username or password.
+  tags:
+    - Error message
+  similar:
+    - Wrong username or password
+
+Wrong username or password:
+  description: Error message for failed login attempt due to wrong username or password.
+  tags:
+    - Error message
+  similar:
+    - Invalid username or password
+
+This username is already taken:
+  description: Error message for already taken username.
+  tags:
+    - Error message
+  similar:
+    - This username is not available
+
+This username is not available:
+  description: Error message for unavailable username.
+  tags:
+    - Error message
+  similar:
+    - This username is already taken
+
+Success:
+  description: The word "success" to tell user of a successful event or action.
+  tags:
+    - Success message
+
+Changes saved successfully:
+  description: Success message after a successful form save.
+  tags:
+    - Success message
+
+Password changed successfully:
+  description: Success message after a user changes password.
+  tags:
+    - Success message
+
+Are you sure you want to permanently delete this file?:
+  description: Warning message before user tries to permanently delete a file.
+  tags:
+    - Warning message
+
+Are you sure you want to permanently delete this?:
+  description: Warning message before user tries to permanently delete an object, data, etc.
+  tags:
+    - Warning message
+
+Are you sure you want to delete this?:
+  description: Warning message before user tries to delete an object, data, etc.
+  tags:
+    - Warning message
