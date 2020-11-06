@@ -275,41 +275,45 @@ Please try again:
 
 Invalid username or password:
   description: Error message for failed login attempt due to wrong username or password.
-  value:
+  value: Nombre de usuario o contraseña invalido
 
 Wrong username or password:
   description: Error message for failed login attempt due to wrong username or password.
-  value:
+  value: Nombre de usuario o contraseña incorrectos
 
 This username is already taken:
   description: Error message for already taken username.
-  value:
+  value: Este nombre de usuario ya está en uso
 
 This username is not available:
   description: Error message for unavailable username.
-  value:
+  value: Este nombre de usuario no está disponible
 
 Success:
   description: The word "success" to tell user of a successful event or action.
-  value:
+  value: Éxito
 
 Changes saved successfully:
   description: Success message after a successful form save.
-  value:
+  value: Los cambios se guardaron exitosamente
 
 Password changed successfully:
   description: Success message after a user changes password.
-  value:
+  value: Contraseña cambiada con éxito
 
 Are you sure you want to permanently delete this file?:
   description: Warning message before user tries to permanently delete a file.
-  value:
+  value: ¿Estás seguro de que deseas eliminar este archivo de forma permanente?
 
 Are you sure you want to permanently delete this?:
   description: Warning message before user tries to permanently delete an object,
     data, etc.
   value:
+    ¿Estás segura de que quieres eliminar esto de forma permanente?: Feminine
+    ¿Estás seguro de que quieres eliminar esto de forma permanente?: Masculine
 
 Are you sure you want to delete this?:
   description: Warning message before user tries to delete an object, data, etc.
   value:
+    ¿Estás segura de que quieres eliminar esto?: Feminine
+    ¿Estás seguro de que quieres eliminar esto?: Masculine
