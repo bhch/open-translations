@@ -5,118 +5,118 @@ _meta:
 
 Create:
   description: Button used for creating/adding new object or data.
-  value:
+  value: Erstellen
 
 Add:
   description: Button used for creating/adding new object or data.
-  value:
+  value: Hinzufügen
 
 Add new:
   description: Button used for creating/adding new object or data.
-  value:
+  value: Neue hinzufügen
 
 Save:
   description: Button used for saving data.
-  value:
+  value: Speichern
 
 Update:
   description: Button used for updating an object, data, app, etc.
-  value:
+  value: Aktualisieren
 
 Edit:
   description: Button used for editing or modifying an object or data.
-  value:
+  value: Bearbeiten
 
 Change:
   description: Label for buttons used for changing/modifying some data.
-  value:
+  value: Ändern
 
 Modify:
   description: Button for modifying/changing an object or data.
-  value:
+  value: Ändern
 
 Delete:
   description: Button for deleting an object.
-  value:
+  value: Löschen
 
 Remove:
   description: Button for removing an object.
-  value:
+  value: Entfernen
 
 "Yes":
   description: Button for confirming an action.
-  value:
+  value: Ja
 
 Yes, I'm sure:
   description: Button for confirming a possibly destructive or serious action.
-  value:
+  value: Ja, ich bin mir sicher
 
 Yes, delete:
   description: Button for confirming a deleting action.
-  value:
+  value: Ja, löschen
 
 Yes, remove:
   description: Button for confirming a removing action.
-  value:
+  value: Ja, entfernen
 
 "No":
   description: Button for declining an action.
-  value:
+  value: Nein
 
 Cancel:
   description: Button used for cancelling or discarding an action.
-  value:
+  value: Stornieren
 
 Clear:
   description: Button used for clearing or erasing some data such as an input value.
-  value:
+  value: Löschen
 
 Discard:
   description: Button used for discarding or cancelling an action.
-  value:
+  value: Verwerfen
 
 Close:
   description: Button used for closing a window, program, menu, popup or a modal.
-  value:
+  value: Schließen
 
 Exit:
   description: Button exiting from a window or an application.
-  value:
+  value: Beenden
 
 Quit:
   description: Button for quitting/closing an application or a window.
-  value:
+  value: Verlassen
 
 Install:
   description: Button or label for installing software, app, etc.
-  value:
+  value: Installieren
 
 Upgrade:
   description: Button or label for upgrading software, app, etc.
-  value:
+  value: Aktualisierung
 
 Accept:
   description: Button or Label used for asking user to accept something, such as terms
     and conditions.
-  value:
+  value: Akzeptieren
 
 I accept:
   description: Button or Label used for asking user to accept something, such as terms
     and conditions.
-  value:
+  value: Ich akzeptiere
 
 Getting started:
   description: Button or Link used for taking user to a "Getting started" page.
-  value:
+  value: Ich akzeptiere
 
 Learn more:
   description: Button or Link used for taking user to a "Learn more" page or showing
     them more information about something.
-  value:
+  value: Mehr erfahren
 
 Pricing:
   description: Button or Link for plans and pricing.
-  value:
+  value: Preis
 
 Plans:
   description: Button or Link for plans and pricing.
@@ -124,25 +124,23 @@ Plans:
 
 About:
   description: Button or Label for "About" page or information.
-  value:
+  value: Über
 
 About us:
   description: Button or Label for "About us" page or information.
-  value:
+  value: Über uns
 
 Contact:
   description: Button or Label for "Contact" page of information.
-  value:
+  value: Kontakt
 
 Contact us:
   description: Button or Label for "Contact us" page or information.
-  value:
+  value: Kontaktiere uns
 
 Get the app:
   description: Label for asking user to download an app.
   value: App installieren
-  variant:
-    Install app:
 
 Login:
   description: Button for submitting login form, or label for link to login page.
@@ -154,7 +152,7 @@ Sign in:
 
 Logout:
   description: Button for logging out.
-  value:
+  value: Ausloggen
 
 Sign out:
   description: Button for signing out.

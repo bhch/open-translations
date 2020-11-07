@@ -146,8 +146,6 @@ Contact us:
 Get the app:
   description: Label for asking user to download an app.
   value: Descargar app
-  variant:
-    Install app:
 
 Login:
   description: Button for submitting login form, or label for link to login page.

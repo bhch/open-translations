@@ -277,7 +277,7 @@ Get the app:
   description: Label for asking user to download an app.
   tags:
     - label
-  variant:
+  variants:
     Install app: 
 
 Login:
