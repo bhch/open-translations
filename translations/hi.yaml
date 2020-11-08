@@ -1,0 +1,338 @@
+_meta:
+  name: Hindi
+  code: hi
+  direction: ltr
+
+Create:
+  description: Button used for creating/adding new object or data.
+  value: 
+    नई बनाएं: Feminine
+    नया बनाएं: Masculine
+
+Add:
+  description: Button used for creating/adding new object or data.
+  value: 
+    नई बनाएं: Feminine
+    नया बनाएं: Masculine
+
+Add new:
+  description: Button used for creating/adding new object or data.
+  value: 
+    नई बनाएं: Feminine
+    नया बनाएं: Masculine
+
+Save:
+  description: Button used for saving data.
+  value: सेव करें
+
+Update:
+  description: Button used for updating an object, data, app, etc.
+  value: अपडेट करें
+
+Edit:
+  description: Button used for editing or modifying an object or data.
+  value: बदलें
+
+Change:
+  description: Label for buttons used for changing/modifying some data.
+  value: बदलें
+
+Modify:
+  description: Button for modifying/changing an object or data.
+  value: बदलें
+
+Delete:
+  description: Button for deleting an object.
+  value:
+    हटाएँ: Formal 
+    डिलीट करें: Very common
+
+Remove:
+  description: Button for removing an object.
+  value: हटाएँ 
+
+"Yes":
+  description: Button for confirming an action.
+  value: हाँ
+
+Yes, I'm sure:
+  description: Button for confirming a possibly destructive or serious action.
+  value: हाँ
+
+Yes, delete:
+  description: Button for confirming a deleting action.
+  value: 
+    हाँ, हटाओ: 
+    हाँ, डिलीट करो: Also common 
+
+Yes, remove:
+  description: Button for confirming a removing action.
+  value: हाँ, हटाओ 
+
+"No":
+  description: Button for declining an action.
+  value: नहीं
+
+Cancel:
+  description: Button used for cancelling or discarding an action.
+  value:
+    कैंसल: More common
+    रद्द करें: Formal, less common
+
+Clear:
+  description: Button used for clearing or erasing some data such as an input value.
+  value: मिटाएँ
+
+Discard:
+  description: Button used for discarding or cancelling an action.
+  value:
+
+Close:
+  description: Button used for closing a window, program, menu, popup or a modal.
+  value: बंद करें
+
+Exit:
+  description: Button exiting from a window or an application.
+  value: बंद करें
+
+Quit:
+  description: Button for quitting/closing an application or a window.
+  value: बंद करें
+
+Install:
+  description: Button or label for installing software, app, etc.
+  value: इंस्टॉल करें
+
+Upgrade:
+  description: Button or label for upgrading software, app, etc.
+  value: अपग्रेड करें
+
+Accept:
+  description: Button or Label used for asking user to accept something, such as terms
+    and conditions.
+  value: स्वीकार करें
+
+I accept:
+  description: Button or Label used for asking user to accept something, such as terms
+    and conditions.
+  value: मुझे स्वीकार है
+
+Getting started:
+  description: Button or Link used for taking user to a "Getting started" page.
+  value: शुरू करें
+
+Learn more:
+  description: Button or Link used for taking user to a "Learn more" page or showing
+    them more information about something.
+  value: और जानें
+
+Pricing:
+  description: Button or Link for plans and pricing.
+  value: कीमत
+
+Plans:
+  description: Button or Link for plans and pricing.
+  value: प्लान
+
+About:
+  description: Button or Label for "About" page or information.
+  value:
+    परिचय: Introduction
+    जानकारी: Information
+
+About us:
+  description: Button or Label for "About us" page or information.
+  value: हमारा परिचय
+
+Contact:
+  description: Button or Label for "Contact" page of information.
+  value: संपर्क
+
+Contact us:
+  description: Button or Label for "Contact us" page or information.
+  value: संपर्क करें
+
+Get the app:
+  description: Label for asking user to download an app.
+  value: ऐप डाउनलोड करें
+
+Login:
+  description: Button for submitting login form, or label for link to login page.
+  value: 
+    लॉग इन: Suitable for labels
+    लॉग इन करें: Suitable for form buttons
+
+Sign in:
+  description: Button for submitting sign in form, or label for link to sign in page.
+  value:
+    साइन इन: Suitable for labels
+    साइन इन करें: Suitable for form buttons
+
+Logout:
+  description: Button for logging out.
+  value: लॉग आउट
+
+Sign out:
+  description: Button for signing out.
+  value: साइन आउट
+
+Sign up:
+  description: Button for submitting sign up form, or label for link to sign up page.
+  value: 
+    साइन अप करें:
+    रजिस्टर करें: 
+
+Don't have an account? Sign up:
+  description: Label for asking user to sign up.
+  value: 
+    अकाउंट नहीं बना है? साइन अप करें:
+    अकाउंट नहीं बना है? रजिस्टर करें:
+
+Username:
+  description: Label for username form field.
+  value: यूजरनेम
+
+Password:
+  description: Label for password form field.
+  value: पासवर्ड
+
+Forgot password?:
+  description: Label for "forgot password?" link.
+  value: पासवर्ड भूल गए?
+
+Reset password:
+  description: Label for "Reset password" link or text.
+  value: पासवर्ड बदलें
+
+Email:
+  description: Label for email address form field.
+  value: ईमेल
+
+Verify email:
+  description: Button for verifying email address.
+  value: ईमेल वेरीफाई करें
+
+Name:
+  description: Label for name form field.
+  value: नाम
+
+Full name:
+  description: Label for full name form field.
+  value: पूरा नाम
+
+First name:
+  description: Label for first name form field.
+  value: पहला नाम
+
+Middle name:
+  description: Label for middle name form field.
+  value: मध्य नाम
+
+Last name:
+  description: Label for last name form field.
+  value: उपनाम
+
+Address:
+  description: Label for address form field.
+  value: पता
+
+Shipping address:
+  description: Label for shipping address form field.
+  value: डिलिवरी का पता
+
+Billing address:
+  description: Label for billing address form field.
+  value: बिल भेजने का पता
+
+Select your language:
+  description: Label for asking user to select their preferred language.
+  value: अपनी भाषा चुनिए
+
+Please select your language:
+  description: Label for asking user to select their preferred language.
+  value: कृपया अपनी भाषा चुनिए
+
+Error:
+  description: The word "error" to notify user about an error or a failed action.
+  value: गड़बड़
+
+Sorry:
+  description: The word "sorry" in case of an error, or unsuccessful action or event.
+  value: माफ़ करें
+
+Something went wrong:
+  description: Error message when something goes wrong.
+  value:
+    कुछ समस्या आ गयी: Formal 
+    कुछ गड़बड़ हो गयी:  Less formal
+
+Please check your internet connection and try again:
+  description: Error message for bad internet connection.
+  value: अपने इंटरनेट कनेक्शन की जाँच करें और दुबारा प्रयास करें
+
+Page not found:
+  description: Error message for HTTP 404 error.
+  value: पेज नहीं मिला
+
+The page you're looking for doesn't exist:
+  description: Error message for HTTP 404 error.
+  value: जिस पेज को  आप खोज रहे हैं वह मौजूद नहीं है
+
+Retry:
+  description: Button for retrying a failed action.
+  value: दुबारा प्रयास करें
+
+Try again:
+  description: Button or message for asking user to try again a failed action.
+  value: दुबारा प्रयास करें
+
+Please try again:
+  description: Message for asking user to try again a failed action.
+  value: दुबारा प्रयास करें
+
+Invalid username or password:
+  description: Error message for failed login attempt due to wrong username or password.
+  value: यूजरनेम या पासवर्ड गलत है
+
+Wrong username or password:
+  description: Error message for failed login attempt due to wrong username or password.
+  value: यूजरनेम या पासवर्ड गलत है
+
+This username is already taken:
+  description: Error message for already taken username.
+  value: यह यूजरनेम उपलब्ध नहीं है
+
+This username is not available:
+  description: Error message for unavailable username.
+  value: यह यूजरनेम उपलब्ध नहीं है
+
+Success:
+  description: The word "success" to tell user of a successful event or action.
+  value: सफलता
+
+Changes saved successfully:
+  description: Success message after a successful form save.
+  value: परिवर्तन सेव कर लिए गए
+
+Password changed successfully:
+  description: Success message after a user changes password.
+  value: पासवर्ड बदल दिया गया था
+
+Are you sure you want to permanently delete this file?:
+  description: Warning message before user tries to permanently delete a file.
+  value: 
+    क्या आप वाकई इस फ़ाइल को स्थायी रूप से हटाना चाहते हैं?: Formal
+    क्या आप वाकई इस फ़ाइल को हमेशा के लिए हटाना चाहते हैं?: Less formal
+
+Are you sure you want to permanently delete this?:
+  description: Warning message before user tries to permanently delete an object,
+    data, etc.
+  value: 
+    क्या आप वाकई इसे स्थायी रूप से हटाना चाहते हैं?: Formal
+    क्या आप वाकई इसे हमेशा के लिए हटाना चाहते हैं?: Less formal
+
+Are you sure you want to delete this?:
+  description: Warning message before user tries to delete an object, data, etc.
+  value:
+    क्या आप वाकई इसे हटाना चाहते हैं?: Formal
+    क्या आप वाकई इसे हटाना चाहते हैं?: Less formal
