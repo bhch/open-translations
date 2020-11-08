@@ -120,7 +120,7 @@ Pricing:
 
 Plans:
   description: Button or Link for plans and pricing.
-  value:
+  value: Plan
 
 About:
   description: Button or Label for "About" page or information.
@@ -156,7 +156,7 @@ Logout:
 
 Sign out:
   description: Button for signing out.
-  value:
+  value: Ausloggen
 
 Sign up:
   description: Button for submitting sign up form, or label for link to sign up page.
@@ -168,11 +168,11 @@ Don't have an account? Sign up:
 
 Username:
   description: Label for username form field.
-  value:
+  value: Nutzername
 
 Password:
   description: Label for password form field.
-  value:
+  value: Passwort
 
 Forgot password?:
   description: Label for "forgot password?" link.
@@ -180,129 +180,133 @@ Forgot password?:
 
 Reset password:
   description: Label for "Reset password" link or text.
-  value:
+  value: Passwort zurücksetzen
 
 Email:
   description: Label for email address form field.
-  value:
+  value: 
+    Email: 
+    E-Mail-Addresse:
 
 Verify email:
   description: Button for verifying email address.
-  value:
+  value: E-Mail bestätigen
 
 Name:
   description: Label for name form field.
-  value:
+  value: Name
 
 Full name:
   description: Label for full name form field.
-  value:
+  value: Vollständiger Name
 
 First name:
   description: Label for first name form field.
-  value:
+  value: Vorname
 
 Middle name:
   description: Label for middle name form field.
-  value:
+  value: Vorname
 
 Last name:
   description: Label for last name form field.
-  value:
+  value: 
+    Nachname:
+    Familienname: 
 
 Address:
   description: Label for address form field.
-  value:
+  value: Adresse
 
 Shipping address:
   description: Label for shipping address form field.
-  value:
+  value: Lieferadresse
 
 Billing address:
   description: Label for billing address form field.
-  value:
+  value: Lieferadresse
 
 Select your language:
   description: Label for asking user to select their preferred language.
-  value:
+  value: Wähle deine Sprache
 
 Please select your language:
   description: Label for asking user to select their preferred language.
-  value:
+  value: Bitte wählen Sie Ihre Sprache
 
 Error:
   description: The word "error" to notify user about an error or a failed action.
-  value:
+  value: Fehler
 
 Sorry:
   description: The word "sorry" in case of an error, or unsuccessful action or event.
-  value:
+  value: Entschuldigung
 
 Something went wrong:
   description: Error message when something goes wrong.
-  value:
+  value: Etwas ist schief gelaufen
 
 Please check your internet connection and try again:
   description: Error message for bad internet connection.
-  value:
+  value: Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut
 
 Page not found:
   description: Error message for HTTP 404 error.
-  value:
+  value: Seite nicht gefunden
 
 The page you're looking for doesn't exist:
   description: Error message for HTTP 404 error.
-  value:
+  value: Die gesuchte Seite existiert nicht
 
 Retry:
   description: Button for retrying a failed action.
-  value:
+  value: Wiederholen
 
 Try again:
   description: Button or message for asking user to try again a failed action.
-  value:
+  value: Versuchen Sie es nochmal
 
 Please try again:
   description: Message for asking user to try again a failed action.
-  value:
+  value: Bitte versuche es erneut
 
 Invalid username or password:
   description: Error message for failed login attempt due to wrong username or password.
-  value:
+  value: Ungültiger Benutzername oder Passwort
 
 Wrong username or password:
   description: Error message for failed login attempt due to wrong username or password.
-  value:
+  value: Falscher Benutzername oder falsches Passwort
 
 This username is already taken:
   description: Error message for already taken username.
-  value:
+  value: Dieser Benutzername ist bereits vergeben
 
 This username is not available:
   description: Error message for unavailable username.
-  value:
+  value: Dieser Benutzername ist nicht verfügbar
 
 Success:
   description: The word "success" to tell user of a successful event or action.
-  value:
+  value: Erfolg
 
 Changes saved successfully:
   description: Success message after a successful form save.
-  value:
+  value: Änderungen erfolgreich gespeichert
 
 Password changed successfully:
   description: Success message after a user changes password.
-  value:
+  value: Passwort wurde erfolgreich geändert
 
 Are you sure you want to permanently delete this file?:
   description: Warning message before user tries to permanently delete a file.
-  value:
+  value: Möchten Sie diese Datei wirklich dauerhaft löschen?
 
 Are you sure you want to permanently delete this?:
   description: Warning message before user tries to permanently delete an object,
     data, etc.
-  value:
+  value: Möchten Sie dies wirklich dauerhaft löschen?
 
 Are you sure you want to delete this?:
   description: Warning message before user tries to delete an object, data, etc.
-  value:
+  value: Möchten Sie dies wirklich löschen?
