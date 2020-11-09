@@ -1,0 +1,321 @@
+{
+  "_meta": {
+    "name": "Spanish", 
+    "code": "es", 
+    "direction": "ltr"
+  }, 
+  "Create": {
+    "description": "Button used for creating/adding new object or data.", 
+    "value": "Crear"
+  }, 
+  "Add": {
+    "description": "Button used for creating/adding new object or data.", 
+    "value": "Agregar"
+  }, 
+  "Add new": {
+    "description": "Button used for creating/adding new object or data.", 
+    "value": {
+      "Agregar nueva": "Feminine", 
+      "Agregar nuevo": "Masculine"
+    }
+  }, 
+  "Save": {
+    "description": "Button used for saving data.", 
+    "value": "Guardar"
+  }, 
+  "Update": {
+    "description": "Button used for updating an object, data, app, etc.", 
+    "value": "Actualizar"
+  }, 
+  "Edit": {
+    "description": "Button used for editing or modifying an object or data.", 
+    "value": "Editar"
+  }, 
+  "Change": {
+    "description": "Label for buttons used for changing/modifying some data.", 
+    "value": "Cambiar"
+  }, 
+  "Modify": {
+    "description": "Button for modifying/changing an object or data.", 
+    "value": "Modificar"
+  }, 
+  "Delete": {
+    "description": "Button for deleting an object.", 
+    "value": "Borrar"
+  }, 
+  "Remove": {
+    "description": "Button for removing an object.", 
+    "value": "Quitar"
+  }, 
+  "Yes": {
+    "description": "Button for confirming an action.", 
+    "value": "Si"
+  }, 
+  "Yes, I'm sure": {
+    "description": "Button for confirming a possibly destructive or serious action.", 
+    "value": {
+      "Si estoy segura": "Masculine", 
+      "Si estoy seguro": "Feminine"
+    }
+  }, 
+  "Yes, delete": {
+    "description": "Button for confirming a deleting action.", 
+    "value": "Si, borrar"
+  }, 
+  "Yes, remove": {
+    "description": "Button for confirming a removing action.", 
+    "value": "Si, quitar"
+  }, 
+  "No": {
+    "description": "Button for declining an action.", 
+    "value": "No"
+  }, 
+  "Cancel": {
+    "description": "Button used for cancelling or discarding an action.", 
+    "value": "Cancelar"
+  }, 
+  "Clear": {
+    "description": "Button used for clearing or erasing some data such as an input value.", 
+    "value": "Limpiar"
+  }, 
+  "Discard": {
+    "description": "Button used for discarding or cancelling an action.", 
+    "value": "Descartar"
+  }, 
+  "Close": {
+    "description": "Button used for closing a window, program, menu, popup or a modal.", 
+    "value": "Cerrar"
+  }, 
+  "Exit": {
+    "description": "Button exiting from a window or an application.", 
+    "value": "Salir"
+  }, 
+  "Quit": {
+    "description": "Button for quitting/closing an application or a window.", 
+    "value": "Salir"
+  }, 
+  "Install": {
+    "description": "Button or label for installing software, app, etc.", 
+    "value": {
+      "Instalar aplicaci\u00f3n": "For installing apps"
+    }
+  }, 
+  "Upgrade": {
+    "description": "Button or label for upgrading software, app, etc.", 
+    "value": "Actualizar"
+  }, 
+  "Accept": {
+    "description": "Button or Label used for asking user to accept something, such as terms and conditions.", 
+    "value": "Aceptar"
+  }, 
+  "I accept": {
+    "description": "Button or Label used for asking user to accept something, such as terms and conditions.", 
+    "value": "Acepto"
+  }, 
+  "Getting started": {
+    "description": "Button or Link used for taking user to a \"Getting started\" page.", 
+    "value": "Empezando"
+  }, 
+  "Learn more": {
+    "description": "Button or Link used for taking user to a \"Learn more\" page or showing them more information about something.", 
+    "value": "Aprende m\u00e1s"
+  }, 
+  "Pricing": {
+    "description": "Button or Link for plans and pricing.", 
+    "value": "Precios"
+  }, 
+  "Plans": {
+    "description": "Button or Link for plans and pricing.", 
+    "value": "Planes"
+  }, 
+  "About": {
+    "description": "Button or Label for \"About\" page or information.", 
+    "value": "Informaci\u00f3n"
+  }, 
+  "About us": {
+    "description": "Button or Label for \"About us\" page or information.", 
+    "value": "Acerca de"
+  }, 
+  "Contact": {
+    "description": "Button or Label for \"Contact\" page of information.", 
+    "value": "Contacto"
+  }, 
+  "Contact us": {
+    "description": "Button or Label for \"Contact us\" page or information.", 
+    "value": "Contacto"
+  }, 
+  "Get the app": {
+    "description": "Label for asking user to download an app.", 
+    "value": "Descargar app"
+  }, 
+  "Login": {
+    "description": "Button for submitting login form, or label for link to login page.", 
+    "value": "Iniciar sesi\u00f3n"
+  }, 
+  "Sign in": {
+    "description": "Button for submitting sign in form, or label for link to sign in page.", 
+    "value": "Iniciar sesi\u00f3n"
+  }, 
+  "Logout": {
+    "description": "Button for logging out.", 
+    "value": "Cerrar sesi\u00f3n"
+  }, 
+  "Sign out": {
+    "description": "Button for signing out.", 
+    "value": "Cerrar sesi\u00f3n"
+  }, 
+  "Sign up": {
+    "description": "Button for submitting sign up form, or label for link to sign up page.", 
+    "value": "Reg\u00edstrate"
+  }, 
+  "Don't have an account? Sign up": {
+    "description": "Label for asking user to sign up.", 
+    "value": "\u00bfTienes una cuenta? Inicia sesi\u00f3n"
+  }, 
+  "Username": {
+    "description": "Label for username form field.", 
+    "value": "Nombre de usuario"
+  }, 
+  "Password": {
+    "description": "Label for password form field.", 
+    "value": "Contrase\u00f1a"
+  }, 
+  "Forgot password?": {
+    "description": "Label for \"forgot password?\" link.", 
+    "value": "\u00bfOlvidaste tu contrase\u00f1a?"
+  }, 
+  "Reset password": {
+    "description": "Label for \"Reset password\" link or text.", 
+    "value": "Restablecer la contrase\u00f1a"
+  }, 
+  "Email": {
+    "description": "Label for email address form field.", 
+    "value": "Correo electr\u00f3nico"
+  }, 
+  "Verify email": {
+    "description": "Button for verifying email address.", 
+    "value": "Verifica tu correo electr\u00f3nico"
+  }, 
+  "Name": {
+    "description": "Label for name form field.", 
+    "value": "Nombre"
+  }, 
+  "Full name": {
+    "description": "Label for full name form field.", 
+    "value": "Nombre completo"
+  }, 
+  "First name": {
+    "description": "Label for first name form field.", 
+    "value": "Primer nombre"
+  }, 
+  "Middle name": {
+    "description": "Label for middle name form field.", 
+    "value": "Segundo nombre"
+  }, 
+  "Last name": {
+    "description": "Label for last name form field.", 
+    "value": "Apellido"
+  }, 
+  "Address": {
+    "description": "Label for address form field.", 
+    "value": "Direcci\u00f3n"
+  }, 
+  "Shipping address": {
+    "description": "Label for shipping address form field.", 
+    "value": "Direcci\u00f3n de Env\u00edo"
+  }, 
+  "Billing address": {
+    "description": "Label for billing address form field.", 
+    "value": "Direcci\u00f3n de Envio"
+  }, 
+  "Select your language": {
+    "description": "Label for asking user to select their preferred language.", 
+    "value": "Elige tu idioma"
+  }, 
+  "Please select your language": {
+    "description": "Label for asking user to select their preferred language.", 
+    "value": "Por favor seleccione su idioma"
+  }, 
+  "Error": {
+    "description": "The word \"error\" to notify user about an error or a failed action.", 
+    "value": "Error"
+  }, 
+  "Sorry": {
+    "description": "The word \"sorry\" in case of an error, or unsuccessful action or event.", 
+    "value": "Perd\u00f3n"
+  }, 
+  "Something went wrong": {
+    "description": "Error message when something goes wrong.", 
+    "value": "Algo sali\u00f3 mal"
+  }, 
+  "Please check your internet connection and try again": {
+    "description": "Error message for bad internet connection.", 
+    "value": "Comprueba tu conexi\u00f3n a Internet y vuelve a intentarlo"
+  }, 
+  "Page not found": {
+    "description": "Error message for HTTP 404 error.", 
+    "value": "P\u00e1gina no encontrada"
+  }, 
+  "The page you're looking for doesn't exist": {
+    "description": "Error message for HTTP 404 error.", 
+    "value": "La p\u00e1gina que est\u00e1s buscando no existe"
+  }, 
+  "Retry": {
+    "description": "Button for retrying a failed action.", 
+    "value": "Int\u00e9ntalo de nuevo"
+  }, 
+  "Try again": {
+    "description": "Button or message for asking user to try again a failed action.", 
+    "value": "Int\u00e9ntalo de nuevo"
+  }, 
+  "Please try again": {
+    "description": "Message for asking user to try again a failed action.", 
+    "value": "Por favor, int\u00e9ntalo de nuevo"
+  }, 
+  "Invalid username or password": {
+    "description": "Error message for failed login attempt due to wrong username or password.", 
+    "value": "Nombre de usuario o contrase\u00f1a invalido"
+  }, 
+  "Wrong username or password": {
+    "description": "Error message for failed login attempt due to wrong username or password.", 
+    "value": "Nombre de usuario o contrase\u00f1a incorrectos"
+  }, 
+  "This username is already taken": {
+    "description": "Error message for already taken username.", 
+    "value": "Este nombre de usuario ya est\u00e1 en uso"
+  }, 
+  "This username is not available": {
+    "description": "Error message for unavailable username.", 
+    "value": "Este nombre de usuario no est\u00e1 disponible"
+  }, 
+  "Success": {
+    "description": "The word \"success\" to tell user of a successful event or action.", 
+    "value": "\u00c9xito"
+  }, 
+  "Changes saved successfully": {
+    "description": "Success message after a successful form save.", 
+    "value": "Los cambios se guardaron exitosamente"
+  }, 
+  "Password changed successfully": {
+    "description": "Success message after a user changes password.", 
+    "value": "Contrase\u00f1a cambiada con \u00e9xito"
+  }, 
+  "Are you sure you want to permanently delete this file?": {
+    "description": "Warning message before user tries to permanently delete a file.", 
+    "value": "\u00bfEst\u00e1s seguro de que deseas eliminar este archivo de forma permanente?"
+  }, 
+  "Are you sure you want to permanently delete this?": {
+    "description": "Warning message before user tries to permanently delete an object, data, etc.", 
+    "value": {
+      "\u00bfEst\u00e1s segura de que quieres eliminar esto de forma permanente?": "Feminine", 
+      "\u00bfEst\u00e1s seguro de que quieres eliminar esto de forma permanente?": "Masculine"
+    }
+  }, 
+  "Are you sure you want to delete this?": {
+    "description": "Warning message before user tries to delete an object, data, etc.", 
+    "value": {
+      "\u00bfEst\u00e1s segura de que quieres eliminar esto?": "Feminine", 
+      "\u00bfEst\u00e1s seguro de que quieres eliminar esto?": "Masculine"
+    }
+  }
+}

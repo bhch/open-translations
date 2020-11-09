@@ -1,0 +1,313 @@
+{
+  "_meta": {
+    "name": "German", 
+    "code": "de", 
+    "direction": "ltr"
+  }, 
+  "Create": {
+    "description": "Button used for creating/adding new object or data.", 
+    "value": "Erstellen"
+  }, 
+  "Add": {
+    "description": "Button used for creating/adding new object or data.", 
+    "value": "Hinzuf\u00fcgen"
+  }, 
+  "Add new": {
+    "description": "Button used for creating/adding new object or data.", 
+    "value": "Neue hinzuf\u00fcgen"
+  }, 
+  "Save": {
+    "description": "Button used for saving data.", 
+    "value": "Speichern"
+  }, 
+  "Update": {
+    "description": "Button used for updating an object, data, app, etc.", 
+    "value": "Aktualisieren"
+  }, 
+  "Edit": {
+    "description": "Button used for editing or modifying an object or data.", 
+    "value": "Bearbeiten"
+  }, 
+  "Change": {
+    "description": "Label for buttons used for changing/modifying some data.", 
+    "value": "\u00c4ndern"
+  }, 
+  "Modify": {
+    "description": "Button for modifying/changing an object or data.", 
+    "value": "\u00c4ndern"
+  }, 
+  "Delete": {
+    "description": "Button for deleting an object.", 
+    "value": "L\u00f6schen"
+  }, 
+  "Remove": {
+    "description": "Button for removing an object.", 
+    "value": "Entfernen"
+  }, 
+  "Yes": {
+    "description": "Button for confirming an action.", 
+    "value": "Ja"
+  }, 
+  "Yes, I'm sure": {
+    "description": "Button for confirming a possibly destructive or serious action.", 
+    "value": "Ja, ich bin mir sicher"
+  }, 
+  "Yes, delete": {
+    "description": "Button for confirming a deleting action.", 
+    "value": "Ja, l\u00f6schen"
+  }, 
+  "Yes, remove": {
+    "description": "Button for confirming a removing action.", 
+    "value": "Ja, entfernen"
+  }, 
+  "No": {
+    "description": "Button for declining an action.", 
+    "value": "Nein"
+  }, 
+  "Cancel": {
+    "description": "Button used for cancelling or discarding an action.", 
+    "value": "Stornieren"
+  }, 
+  "Clear": {
+    "description": "Button used for clearing or erasing some data such as an input value.", 
+    "value": "L\u00f6schen"
+  }, 
+  "Discard": {
+    "description": "Button used for discarding or cancelling an action.", 
+    "value": "Verwerfen"
+  }, 
+  "Close": {
+    "description": "Button used for closing a window, program, menu, popup or a modal.", 
+    "value": "Schlie\u00dfen"
+  }, 
+  "Exit": {
+    "description": "Button exiting from a window or an application.", 
+    "value": "Beenden"
+  }, 
+  "Quit": {
+    "description": "Button for quitting/closing an application or a window.", 
+    "value": "Verlassen"
+  }, 
+  "Install": {
+    "description": "Button or label for installing software, app, etc.", 
+    "value": "Installieren"
+  }, 
+  "Upgrade": {
+    "description": "Button or label for upgrading software, app, etc.", 
+    "value": "Aktualisierung"
+  }, 
+  "Accept": {
+    "description": "Button or Label used for asking user to accept something, such as terms and conditions.", 
+    "value": "Akzeptieren"
+  }, 
+  "I accept": {
+    "description": "Button or Label used for asking user to accept something, such as terms and conditions.", 
+    "value": "Ich akzeptiere"
+  }, 
+  "Getting started": {
+    "description": "Button or Link used for taking user to a \"Getting started\" page.", 
+    "value": "Ich akzeptiere"
+  }, 
+  "Learn more": {
+    "description": "Button or Link used for taking user to a \"Learn more\" page or showing them more information about something.", 
+    "value": "Mehr erfahren"
+  }, 
+  "Pricing": {
+    "description": "Button or Link for plans and pricing.", 
+    "value": "Preis"
+  }, 
+  "Plans": {
+    "description": "Button or Link for plans and pricing.", 
+    "value": "Plan"
+  }, 
+  "About": {
+    "description": "Button or Label for \"About\" page or information.", 
+    "value": "\u00dcber"
+  }, 
+  "About us": {
+    "description": "Button or Label for \"About us\" page or information.", 
+    "value": "\u00dcber uns"
+  }, 
+  "Contact": {
+    "description": "Button or Label for \"Contact\" page of information.", 
+    "value": "Kontakt"
+  }, 
+  "Contact us": {
+    "description": "Button or Label for \"Contact us\" page or information.", 
+    "value": "Kontaktiere uns"
+  }, 
+  "Get the app": {
+    "description": "Label for asking user to download an app.", 
+    "value": "App installieren"
+  }, 
+  "Login": {
+    "description": "Button for submitting login form, or label for link to login page.", 
+    "value": "Anmelden"
+  }, 
+  "Sign in": {
+    "description": "Button for submitting sign in form, or label for link to sign in page.", 
+    "value": "Anmelden"
+  }, 
+  "Logout": {
+    "description": "Button for logging out.", 
+    "value": "Ausloggen"
+  }, 
+  "Sign out": {
+    "description": "Button for signing out.", 
+    "value": "Ausloggen"
+  }, 
+  "Sign up": {
+    "description": "Button for submitting sign up form, or label for link to sign up page.", 
+    "value": "Registrieren"
+  }, 
+  "Don't have an account? Sign up": {
+    "description": "Label for asking user to sign up.", 
+    "value": "Du hast kein Konto? Registrieren"
+  }, 
+  "Username": {
+    "description": "Label for username form field.", 
+    "value": "Nutzername"
+  }, 
+  "Password": {
+    "description": "Label for password form field.", 
+    "value": "Passwort"
+  }, 
+  "Forgot password?": {
+    "description": "Label for \"forgot password?\" link.", 
+    "value": "Passwort vergessen?"
+  }, 
+  "Reset password": {
+    "description": "Label for \"Reset password\" link or text.", 
+    "value": "Passwort zur\u00fccksetzen"
+  }, 
+  "Email": {
+    "description": "Label for email address form field.", 
+    "value": {
+      "Email": null, 
+      "E-Mail-Addresse": null
+    }
+  }, 
+  "Verify email": {
+    "description": "Button for verifying email address.", 
+    "value": "E-Mail best\u00e4tigen"
+  }, 
+  "Name": {
+    "description": "Label for name form field.", 
+    "value": "Name"
+  }, 
+  "Full name": {
+    "description": "Label for full name form field.", 
+    "value": "Vollst\u00e4ndiger Name"
+  }, 
+  "First name": {
+    "description": "Label for first name form field.", 
+    "value": "Vorname"
+  }, 
+  "Middle name": {
+    "description": "Label for middle name form field.", 
+    "value": "Vorname"
+  }, 
+  "Last name": {
+    "description": "Label for last name form field.", 
+    "value": {
+      "Nachname": null, 
+      "Familienname": null
+    }
+  }, 
+  "Address": {
+    "description": "Label for address form field.", 
+    "value": "Adresse"
+  }, 
+  "Shipping address": {
+    "description": "Label for shipping address form field.", 
+    "value": "Lieferadresse"
+  }, 
+  "Billing address": {
+    "description": "Label for billing address form field.", 
+    "value": "Lieferadresse"
+  }, 
+  "Select your language": {
+    "description": "Label for asking user to select their preferred language.", 
+    "value": "W\u00e4hle deine Sprache"
+  }, 
+  "Please select your language": {
+    "description": "Label for asking user to select their preferred language.", 
+    "value": "Bitte w\u00e4hlen Sie Ihre Sprache"
+  }, 
+  "Error": {
+    "description": "The word \"error\" to notify user about an error or a failed action.", 
+    "value": "Fehler"
+  }, 
+  "Sorry": {
+    "description": "The word \"sorry\" in case of an error, or unsuccessful action or event.", 
+    "value": "Entschuldigung"
+  }, 
+  "Something went wrong": {
+    "description": "Error message when something goes wrong.", 
+    "value": "Etwas ist schief gelaufen"
+  }, 
+  "Please check your internet connection and try again": {
+    "description": "Error message for bad internet connection.", 
+    "value": "Bitte \u00fcberpr\u00fcfen Sie Ihre Internetverbindung und versuchen Sie es erneut"
+  }, 
+  "Page not found": {
+    "description": "Error message for HTTP 404 error.", 
+    "value": "Seite nicht gefunden"
+  }, 
+  "The page you're looking for doesn't exist": {
+    "description": "Error message for HTTP 404 error.", 
+    "value": "Die gesuchte Seite existiert nicht"
+  }, 
+  "Retry": {
+    "description": "Button for retrying a failed action.", 
+    "value": "Wiederholen"
+  }, 
+  "Try again": {
+    "description": "Button or message for asking user to try again a failed action.", 
+    "value": "Versuchen Sie es nochmal"
+  }, 
+  "Please try again": {
+    "description": "Message for asking user to try again a failed action.", 
+    "value": "Bitte versuche es erneut"
+  }, 
+  "Invalid username or password": {
+    "description": "Error message for failed login attempt due to wrong username or password.", 
+    "value": "Ung\u00fcltiger Benutzername oder Passwort"
+  }, 
+  "Wrong username or password": {
+    "description": "Error message for failed login attempt due to wrong username or password.", 
+    "value": "Falscher Benutzername oder falsches Passwort"
+  }, 
+  "This username is already taken": {
+    "description": "Error message for already taken username.", 
+    "value": "Dieser Benutzername ist bereits vergeben"
+  }, 
+  "This username is not available": {
+    "description": "Error message for unavailable username.", 
+    "value": "Dieser Benutzername ist nicht verf\u00fcgbar"
+  }, 
+  "Success": {
+    "description": "The word \"success\" to tell user of a successful event or action.", 
+    "value": "Erfolg"
+  }, 
+  "Changes saved successfully": {
+    "description": "Success message after a successful form save.", 
+    "value": "\u00c4nderungen erfolgreich gespeichert"
+  }, 
+  "Password changed successfully": {
+    "description": "Success message after a user changes password.", 
+    "value": "Passwort wurde erfolgreich ge\u00e4ndert"
+  }, 
+  "Are you sure you want to permanently delete this file?": {
+    "description": "Warning message before user tries to permanently delete a file.", 
+    "value": "M\u00f6chten Sie diese Datei wirklich dauerhaft l\u00f6schen?"
+  }, 
+  "Are you sure you want to permanently delete this?": {
+    "description": "Warning message before user tries to permanently delete an object, data, etc.", 
+    "value": "M\u00f6chten Sie dies wirklich dauerhaft l\u00f6schen?"
+  }, 
+  "Are you sure you want to delete this?": {
+    "description": "Warning message before user tries to delete an object, data, etc.", 
+    "value": "M\u00f6chten Sie dies wirklich l\u00f6schen?"
+  }
+}
