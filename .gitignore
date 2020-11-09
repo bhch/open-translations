@@ -3,16 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# dependencies
-/node_modules
-/.pnp
+# website dependencies
+node_modules
+.pnp
 .pnp.js
 
-# testing
-/coverage
+# website testing
+coverage
 
-# production
-/build
+# website build
+build
 
 # misc
 .DS_Store
