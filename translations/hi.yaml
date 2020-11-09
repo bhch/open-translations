@@ -160,13 +160,13 @@ Login:
   description: Button for submitting login form, or label for link to login page.
   value: 
     लॉग इन: Suitable for labels
-    लॉग इन करें: Suitable for form buttons
+    लॉग इन करें: Suitable for form buttons (verb)
 
 Sign in:
   description: Button for submitting sign in form, or label for link to sign in page.
   value:
     साइन इन: Suitable for labels
-    साइन इन करें: Suitable for form buttons
+    साइन इन करें: Suitable for form buttons (verb)
 
 Logout:
   description: Button for logging out.
