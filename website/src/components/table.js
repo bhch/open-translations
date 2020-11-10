@@ -206,6 +206,9 @@ class CopyButton extends React.Component {
         };
     }
     handleClick = (e) => {
+        if (!navigator.clipboard)
+            return;
+
         navigator.clipboard.writeText(this.props.text)
         .then(this.showFeedback);
     }
