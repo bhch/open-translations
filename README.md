@@ -7,6 +7,8 @@
 Free, open-source and verified translations for your websites, apps and other 
 software.
 
+**Website**: https://bhch.github.io/open-translations/
+
 ---
 
 ## Why?
@@ -26,3 +28,10 @@ translate them.
 Open Translations is an open-source project with the aim to make i18n easy by
 translating all the common phrases and terminology used in websites, apps and 
 other software into various languages.
+
+## Contributing
+
+For contributing translations or code, please read the 
+[contribution guidelines][1].
+
+[1]: https://github.com/bhch/open-translations/wiki/Contributing
