@@ -27,7 +27,6 @@ $color-primary-10: #33ffc6;
 }
 
 *, ::after, ::before {
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -72,12 +71,17 @@ a {
     text-align: center !important;
 }
 .container {
-    display: table;
     width: 100%;
     max-width: 980px;
     margin: auto;
     padding-left: 15px;
     padding-right: 15px;
+
+    &::after {
+        display: block;
+        content: "";
+        clear: both;
+    } 
 }
 .nav ul {
     float: right;
@@ -165,6 +169,7 @@ a {
 .search-input:focus {
     background-color: $color-gray-10;
     border-color: $color-gray-40;
+    outline: none;
 }
 
 .search-button {
@@ -181,8 +186,7 @@ a {
 }
 
 .table-box {
-    width: 100%;
-    max-width: 980px;
+    max-width: 100%;
     overflow-x: auto;
     position: relative;
     margin: auto;
@@ -191,6 +195,7 @@ a {
 }
 table {
     width: 100%;
+    min-width: 600px;
     border-collapse: separate;
     border-spacing: 0;
 }
@@ -321,6 +326,10 @@ tr.related th {
         background-color: $color-gray-20;
         color: $color-black;
     }
+    
+    &:focus {
+        outline: none;
+    }
 }
 
 td:hover .copy-button {
@@ -390,4 +399,24 @@ td:hover .copy-feedback {
 
 .col > p {
     margin-bottom: 15px;
+}
+
+@media(max-width: 576px) {
+    tr th:first-child,
+    tr td:first-child {
+        min-width: 150px;
+        max-width: 150px;
+        width: 150px;
+    }
+    .col {
+        width: 100%;
+        padding: 0 15px;
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width: 410px) {
+    .label.beta {
+        display: none;
+    }
 }
