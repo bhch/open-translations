@@ -2,8 +2,8 @@ export function TopNav() {
     return (
         <div className="nav top-nav">
             <div className="container">
-                <a href="#" className="branding">
-                    <img src={process.env.PUBLIC_URL + "/logo-128.png"} />
+                <a href=" " className="branding">
+                    <img src={process.env.PUBLIC_URL + "/logo-128.png"} alt="Logo" />
                     Open Translations
                     <span className="label beta">Beta</span>
                 </a>

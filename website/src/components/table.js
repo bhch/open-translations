@@ -32,7 +32,6 @@ export default function TableBox(props) {
 function TableAll(props) {
     /* Renders all terms */
 
-    const inputLangCode = props.inputLangCode
     const inputLang = props.inputLang;
     const outputLangCodes = props.outputLangCodes;
 
@@ -119,7 +118,6 @@ function TableAll(props) {
 function TableFiltered(props) {
     /* Renders filtered terms */
     
-    const inputLangCode = props.inputLangCode
     const inputLang = props.inputLang;
     const outputLangCodes = props.outputLangCodes;
     const searchVal = props.searchVal.trim().toLowerCase();
